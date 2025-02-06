@@ -4,7 +4,7 @@ Welcome to this collection of **Substance Painter presets** crafted to adapt you
 
 ## Preset Overview
 
-### Exodus SDK (Standard material)
+### Exodus SDK (MetRough)
 
 This preset configuring the _bump (**bump map**) with the following channel setup:
 
@@ -27,9 +27,7 @@ It will export the following maps:
 >  In `User1` you can draw Detail mask, Material mask. (not verified)
 ---
 
-### Other Presets
-
-### Exodus SDK (Standard material + f0)
+### Exodus SDK (MetRough) + f0
 
 This preset configuring the _bump (**bump map**) with the following channel setup:
 
@@ -42,6 +40,10 @@ It will export the following maps:
   - `$TextureSet` (Color map)
   - `$TextureSet_bump` (Bump map)
   - `$TextureSet_nm` (Normal map)
+
+### Other Presets
+
+For people working with SpecGloss instead of MetRough: `Exodus SDK (SpecGloss)` and  `Exodus SDK (SpecGloss) + f0`
 
 ## How to Import Presets
 
