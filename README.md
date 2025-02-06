@@ -35,7 +35,7 @@ This preset configuring the _bump (**bump map**) with the following channel setu
 
 - 🟥 **Red**: `User1` (White)
 - 🟩 **Green**: Glossiness
-- 🟦 **Blue**: `f0` (Reflectivity)
+- 🟦 **Blue**: f0 (Reflectivity)
 - ⬛ **Alpha**: Height
 
 It will export the following maps:
