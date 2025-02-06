@@ -49,7 +49,8 @@ For people working with SpecGloss instead of MetRough: `Exodus SDK (SpecGloss)` 
 
 ### Option 1: Import via Substance Painter
 
-1. Clone this repository and copy all files to your system.
+1. - Clone this repository and copy all files to your system.
+   - Or download last release [SubstanceToExodus.zip](https://github.com/Shemich/SubstanceToExodus/releases/download/v1.0.0/SubstanceToExodus.zip) and unzip it.
 2. Open **Substance Painter**.
 3. Go to **File > Import Resources**, then select `.spexp` file.
 4. Choose **Shelf** as the destination and click **Import**.
